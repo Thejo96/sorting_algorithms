@@ -1,1 +1,3 @@
-THEjo96 and Yacine745THEjo96 and Yacine745
+# sorting_algorithms
+
+****Yassine745 & Thejo96****
